@@ -2,6 +2,7 @@
 Select an answer for a question. Choose wisely, as it can't be changed later.
 
 ## Datasets
+<<<<<<< HEAD
 * WikiQA [data](https://www.microsoft.com/en-us/download/details.aspx?id=52419) [paper](https://www.microsoft.com/en-us/research/publication/wikiqa-a-challenge-dataset-for-open-domain-question-answering/)
 * InsuranceQA [data](https://github.com/shuzi/insuranceQA) [paper](https://arxiv.org/abs/1508.01585)
 * SQuAD [data](https://rajpurkar.github.io/SQuAD-explorer/)[paper](https://arxiv.org/abs/1606.05250)
@@ -14,3 +15,5 @@ Select an answer for a question. Choose wisely, as it can't be changed later.
 * TREC-QA [data](http://cs.stanford.edu/people/mengqiu/data/qg-emnlp07-data.tgz)[paper](https://www.aclweb.org/anthology/D/D07/D07-1003.pdf)
 * SemEval English and Arabic [data](http://alt.qcri.org/semeval2015/task3/index.php?id=data-and-tools)[paper](http://alt.qcri.org/semeval2015/task3/)
 * MovieQA [data](http://movieqa.cs.toronto.edu/home/)[paper](https://arxiv.org/abs/1512.02902)
+=======
+>>>>>>> 6e5fc0f33168c17cef89e20e44e8e59a47ac5c86
